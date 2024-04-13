@@ -1,0 +1,153 @@
+header{
+  background-color:F4FFB0;
+  text-align:left;
+  padding: 5px;
+}
+nav{
+  text-align: center;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid black;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgb(251, 146, 85);
+
+}
+nav a{
+  text-decoration: none;
+  color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+nav a:hover{
+  color:brown;
+}
+h1{
+  font-size: 50px;
+  color: rgb(239, 114, 31);
+  text-align: center;
+}
+
+.foot{
+  width: 35px;
+  height: 35px;
+}
+.store{
+  width:90px;
+  height:90px;
+  margin-top:11px;
+  text-align: center;
+}
+body{
+  background-color:CEFF9D ;
+}
+footer{
+  background-color:F4FFB0;
+}
+.product{
+  background-color: white;
+  width: 130px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+ 
+}
+.pro{
+  background-color: white;
+  width: 130px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+.foo{
+  width: 35px;
+  height: 35px;
+}
+.tet{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 400px;
+  
+}
+.prod{
+  background-color: white;
+  width: 130px;
+  text-align:left;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.sto{
+  width:100px;
+  height:110px;
+  margin-top:11px;
+  text-align: center;
+  margin-left: 11px;
+}
+.na{
+  text-align: center;
+  font-size: 23px;
+
+}
+.picture{
+  background-color: white;
+  width: 130px;
+  text-align:left;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+.text {
+  width: 300px;
+  text-align: right;
+
+}
+.right {
+  text-align: right;
+  font-size: 30px;
+  margin-right: 30px;
+  margin-top: 60px;
+}
+.text p:hover{
+    font-size: 50px;
+    color: rgb(241, 115, 136);
+}
+.left{
+  font-size: 30px;
+  margin-left: 30px;
+  margin-top: 60px;
+  margin-right: 60px;
+}
+
+section {
+  display: flex;
+}
+
+footer{
+    border-top: 10px dotted black;
+    background-color:rgb(251, 146, 85);
+}
+.name:hover{
+    font-size: 20px;
+    color: rgb(241, 115, 136);
+}
+.name{
+    font-size: 23px;
+}
+
+.na:hover{
+    font-size: 20px;
+    color: rgb(241, 115, 42);
+}
+
+p{
+  font-size: 17px;
+}
+.product{
+  width:100px;
+}
